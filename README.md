@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcx1385
 - 👀 I’m interested in program apps on iOS 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Git, GitHub and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
